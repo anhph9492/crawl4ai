@@ -1,0 +1,71 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "A sleek and responsive wireless mouse with ergonomic design.",
+        "price": 29.99,
+        "currency": "USD",
+        "category": "Electronics",
+        "availability": "In Stock",
+        "ratings": {
+          "average": 4.5,
+          "reviews": 120
+        },
+        "brand": "Logitech",
+        "color": "Black",
+        "weight": "0.2 kg",
+        "dimensions": {
+          "length": "4.5 inches",
+          "width": "2.5 inches",
+          "height": "1.5 inches"
+        },
+        "image_url": "https://example.com/images/wireless-mouse.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Bluetooth Headphones",
+        "description": "Noise-cancelling Bluetooth headphones with superior sound quality.",
+        "price": 89.99,
+        "currency": "USD",
+        "category": "Electronics",
+        "availability": "Out of Stock",
+        "ratings": {
+          "average": 4.8,
+          "reviews": 320
+        },
+        "brand": "Sony",
+        "color": "Blue",
+        "weight": "0.3 kg",
+        "dimensions": {
+          "length": "6.0 inches",
+          "width": "6.0 inches",
+          "height": "2.0 inches"
+        },
+        "image_url": "https://example.com/images/bluetooth-headphones.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Smartphone Stand",
+        "description": "Adjustable stand for smartphones and tablets.",
+        "price": 14.99,
+        "currency": "USD",
+        "category": "Accessories",
+        "availability": "In Stock",
+        "ratings": {
+          "average": 4.2,
+          "reviews": 50
+        },
+        "brand": "Anker",
+        "color": "Gray",
+        "weight": "0.1 kg",
+        "dimensions": {
+          "length": "4.0 inches",
+          "width": "4.0 inches",
+          "height": "1.0 inch"
+        },
+        "image_url": "https://example.com/images/smartphone-stand.jpg"
+      }
+    ]
+  }
+  

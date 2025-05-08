@@ -1,0 +1,7 @@
+type: "llm"
+provider: "ollama/deepseek-r1:1.5b"
+instruction: "Extract all articles with their titles and links"
+api_token: "your-token"
+params:
+  temperature: 0.3
+  max_tokens: 1000
